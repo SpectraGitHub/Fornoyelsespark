@@ -1,0 +1,12 @@
+sisteKundeNr: 2
+
+Kunde:
+nummer/ID: 1    navn: Anne telefon: 11111111 har gjenstandene:
+                - 1 stk (nr.1) Tralle u/sele
+                - 1 stk (nr.2) Sykkel u/tilhenger
+                - 1 stk (nr.3) Elsparkesykkel på 100 watt
+
+nummer/ID: 2    navn: Bent telefon: 22222222 har gjenstandene:
+                - 2 stk (nr.4 og 5) Traller, nr.4 u/sele, nr.5 m/sele
+                - 2 stk (nr.6 og 7) Sykler, nr.6 u/tilhenger, nr.7 m/tilhenger
+                - 2 stk (nr.8 og 9) Elsparkesykler, nr.8 på 100w, nr.9 på 200w
